@@ -1,0 +1,62 @@
+/* h2 {
+    color: rgb(14, 14, 87);
+    text-align: center;
+
+}
+ p{ color: brown;
+     text-align: center;
+     font-size: 25px;
+
+}
+   div {
+       height: 200px;
+       width: 200px;
+       color: red; 
+       background-color:cadetblue;
+       text-align: center;
+       align-content: center;
+       padding: 20px;
+       margin: 100px;
+       border: 2px solid red;
+   /* } */
+    /* div{
+    
+    
+    padding: 10px;
+    margin: 0px;
+    border: 5px solid ;
+   }
+
+   .ak{
+    color: blue;
+    font-size: 30px;
+   }
+
+   div.ak2{
+    color: green;
+    font-size: 40px;
+   } */
+  
+   div{
+    margin: 10px;
+}
+.box1{
+    background-color: green;
+   
+
+}
+.box2{
+    background-color: red;
+   
+
+}
+.box3{
+    background-color: powderblue;
+    
+}
+.box{
+  margin: 40px;
+  display: inline-block;
+  padding: 100px 90px;
+}
+   
